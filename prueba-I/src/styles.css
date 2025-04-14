@@ -1,0 +1,19 @@
+body {
+    font-family: sans-serif;
+    background-color: red;
+    display: flex;
+    align-items: center;
+    flex-direction: column;
+}
+
+.temp-container {
+    display: flex;
+    justify-content: center;
+    gap: 16px;
+}
+
+.temp-section {
+    display: none;
+    flex-direction: column;
+}
+
